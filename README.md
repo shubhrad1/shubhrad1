@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhrad1&label=Profile%20views&color=0e75b6&style=flat" alt="shubhrad1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shubhrad1" target="blank"><img src="https://img.shields.io/twitter/follow/shubhrad1?logo=twitter&style=for-the-badge" alt="shubhrad1" /></a> </p>
+<p align="left"> <a href="https://x.com/shubhrad1" target="blank"><img src="https://img.shields.io/twitter/follow/shubhrad1?logo=twitter&style=for-the-badge" alt="shubhrad1" /></a> </p>
 
 - 📫 How to reach me **shubhramail.das@gmail.com**
 
