@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shubrhadeep, a developer specializing in AI agents architecture. I’m passionate about building efficient solutions and contributing to open-source projects. <br>Currently working with Langgraphs, MCPs, RAG, Cloud
+I'm Shubhradeep Das. Software Developer exploring multiple fronts of Computer Science and Artificial Intelligence.
 
 
 ## 🌐 Socials:
